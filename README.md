@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi 👋
 
-<!--
-**kubawyczesany/kubawyczesany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+- Bachelor of Computer Science
+- Currently working on a few mobile projects as a freelancer.
+- Playing drums in a garage band
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My current technology stack:
+- React.js
+- Typescript
+- GraphQL
+____
+If you have already come here, know that most of my 
+most interesting work is in private repositories for obvious reasons :)
