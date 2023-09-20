@@ -1,7 +1,7 @@
 ## Hi 👋
 
 ### About me:
-- Bachelor of Computer Science
+- Master of Computer Science
 - Currently working on a few mobile projects as a freelancer.
 - Playing drums in a garage band
 
