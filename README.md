@@ -1,10 +1,5 @@
 ## Hi 👋
 
-### About me:
-- Master of Computer Science
-- Currently working on a few mobile projects as a freelancer.
-- Playing drums in a garage band
-
 ### My current technology stack:
 - React.js
 - Typescript
